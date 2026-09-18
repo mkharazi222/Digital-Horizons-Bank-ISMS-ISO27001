@@ -21,5 +21,4 @@
 - **03-Risk-Management-and-SoA:** أداة تقييم المخاطر، وثيقة SoA، المنهجية، والتقرير التنفيذي.
 - **04-Operations-and-Business-Continuity:** إجراء الحوادث، أدلة تشغيل IT، وخطة BCP/DRP.
 - **05-Evaluation-Audit-and-Improvement:** تقارير التدقيق الداخلي والأداء، وتقرير التدقيق الخارجي.
-- **Presentation:** العرض التقديمي النهائي للمشروع (10 دقائق).
--
+
